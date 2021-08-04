@@ -1,0 +1,22 @@
+.TodoTemplate {
+    width: 512px;
+    // 너비가 있어야 좌우 중앙정렬됨
+    margin: 6rem auto 0;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.app_title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #22b8cf;
+    color: #fff;
+    height: 4rem;
+    font-size: 1.5rem;
+
+}
+
+.content {
+    background: #fff;
+}
